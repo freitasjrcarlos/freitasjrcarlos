@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 My name is Carlos and I'm experienced fullstack developer living in Brazil and working remotely for Hogarth WW. Contact-me on <a href="https://www.linkedin.com/in/carlos-jr-freitas/">Linkedin</a>
 
 <!--
