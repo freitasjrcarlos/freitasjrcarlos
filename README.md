@@ -1,5 +1,5 @@
 ### Hello 👋
-My name is Carlos and I'm experienced front-end developer living in Brazil and working remotely for Just Digital. Contact-me on <a href="https://www.linkedin.com/in/carlos-jr-freitas/">Linkedin</a>
+My name is Carlos and I'm experienced front-end developer living in Brazil and working remotely for Pravaler. Contact-me on <a href="https://www.linkedin.com/in/carlos-jr-freitas/">Linkedin</a>
 
 <!--
 **freitasjrcarlos/freitasjrcarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
