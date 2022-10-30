@@ -8,8 +8,8 @@ My name is Carlos and I'm experienced front-end developer living in Brazil and w
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```javascript
-function **Carlos** {
- const name = "Carlos FReitas"
+function Carlos() {
+ const name = "Carlos Freitas"
  const acknowledgements = "Front end"
  
  const languages = ["Javascript", "Typescript"]
@@ -40,7 +40,7 @@ function **Carlos** {
 </a>
 
 [website]: https://carlosfreitas.dev/
-[linkedin]: [https://www.linkedin.com/in/SEULINKEDIN/](https://carlosfreitas.dev/)
+[linkedin]: https://www.linkedin.com/in/carlos-jr-freitas/
 <br>
 
 #### Social
