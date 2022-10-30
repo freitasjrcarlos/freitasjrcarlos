@@ -1,6 +1,3 @@
-### Hello 👋
-My name is Carlos and I'm experienced front-end developer living in Brazil and working remotely for Pravaler. Contact-me on <a href="https://www.linkedin.com/in/carlos-jr-freitas/">Linkedin</a>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 ### Hello 👋
 
