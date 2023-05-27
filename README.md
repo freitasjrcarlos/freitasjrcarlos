@@ -29,16 +29,6 @@ function Carlos() {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 
-## **GitHub Stats**
-
-<!-- <a href="https://github.com/freitasjrcarlos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasjrcarlos&theme=dracula&hide_langs_below=1" />
-</a> -->
-
-<a href="https://github.com/freitasjrcarlos">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=freitasjrcarlos&show_icons=true&theme=dracula&line_height=27" alt="**Carlos Freitas** github stats"/>
-</a>
-
 [website]: https://carlosfreitas.dev/
 [linkedin]: https://www.linkedin.com/in/carlos-jr-freitas/
 <br>
