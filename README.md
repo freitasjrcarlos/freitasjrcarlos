@@ -16,13 +16,28 @@ const carlos = {
     ],
     technologies: {
         frontEnd: {
-            js: ["React", "Next", "VUE"],
+            js: [
+                "React",
+                "Next",
+                "VUE"],
         },
         backEnd: {
-            js: ["Node", "Nest.js", "Express"],
+            js: [
+                    "Node",
+                    "Nest.js",
+                    "Express"
+                ],
         },
-        devOps: ["AWS", "Docker🐳", "GCP"],
-        databases: ["Mongo", "MySql", "PostgreSql"]
+        devOps: [
+            "AWS",
+            "Docker🐳",
+             "GCP"
+        ],
+        databases: [
+            "Mongo",
+            "MySql",
+            "PostgreSql"
+        ]
     },
 };
 ```
