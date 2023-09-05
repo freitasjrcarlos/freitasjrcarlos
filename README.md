@@ -1,41 +1,68 @@
+<h2> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hello! </h2>
+<p><em>Software Engineer
+</a>
+</em></p>
 
-### Hello 👋
 
-My name is Carlos and I'm experienced front-end developer living in Brazil and working remotely for Pravaler
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="500" height="385" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```javascript
-function Carlos() {
- const name = "Carlos Freitas"
- const acknowledgements = "Front end"
- 
- const languages = ["Javascript", "Typescript"]
-
-}
+const carlos = {
+    code: ["Javascript", "Typescript"],
+    askMeAbout: [
+      "web dev",
+      "tech",
+      "euro truck simulator"
+    ],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next", "VUE"],
+        },
+        backEnd: {
+            js: ["Node", "Nest.js", "Express"],
+        },
+        devOps: ["AWS", "Docker🐳", "GCP"],
+        databases: ["Mongo", "MySql", "PostgreSql"]
+    },
+};
 ```
-
-## **Languages and tools:**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-
-
-[website]: https://carlosfreitas.dev/
-[linkedin]: https://www.linkedin.com/in/carlos-jr-freitas/
 <br>
 
-#### Social
+```diff
+                                 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+                                 @@       o o                                           @@
+                                 @@       | |                                           @@
+                                 @@      _L_L_                                          @@
+                                 @@   ❮\/__-__\/❯ Programming isn't about what you know @@
+                                 @@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+                                 @@   ❮/ \`-'/ \❯                                       @@
+                                 @@     _/`U'\_                                         @@
+                                 @@    ( .   . )     .----------------------------.     @@
+                                 @@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+                                 @@   \ |  ,  | /    '----------------------------'     @@
+                                 @@    \|=====|/                                        @@
+                                 @@     |_.^._|                                         @@
+                                 @@     | |"| |                                         @@
+                                 @@     ( ) ( )   Testing leads to failure              @@
+                                 @@     |_| |_|   and failure leads to understanding    @@
+                                 @@ _.-' _j L_ '-._                                     @@
+                                 @@(___.'     '.___)                                    @@
+                                 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+<br>
+<br>
+<br>
 
-🏡 [website][website] **|** 
-👔 [linkedin][linkedin]
+<div align="center">
+<p>Have a good day!</p>
+<div>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
+</div>
 
 
