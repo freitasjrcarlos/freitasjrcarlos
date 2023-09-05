@@ -3,9 +3,6 @@
 </a>
 </em></p>
 
-
-<img align="right" width="400" height="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
 ```javascript
 const carlos = {
     code: ["Javascript", "Typescript"],
@@ -16,28 +13,13 @@ const carlos = {
     ],
     technologies: {
         frontEnd: {
-            js: [
-                "React",
-                "Next",
-                "VUE"],
+            js: ["React", "Next", "VUE"],
         },
         backEnd: {
-            js: [
-                    "Node",
-                    "Nest.js",
-                    "Express"
-                ],
+            js: ["Node", "Nest.js", "Express"],
         },
-        devOps: [
-            "AWS",
-            "Docker🐳",
-             "GCP"
-        ],
-        databases: [
-            "Mongo",
-            "MySql",
-            "PostgreSql"
-        ]
+        devOps: ["AWS", "Docker🐳", "GCP"],
+        databases: ["Mongo", "MySql", "PostgreSql"]
     },
 };
 ```
