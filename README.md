@@ -6,11 +6,7 @@
 ```javascript
 const carlos = {
     code: ["Javascript", "Typescript"],
-    askMeAbout: [
-      "web dev",
-      "tech",
-      "euro truck simulator"
-    ],
+    askMeAbout: ["web dev", "tech", "euro truck simulator"],
     technologies: {
         frontEnd: {
             js: ["React", "Next", "VUE"],
